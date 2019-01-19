@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Notes on some random cool stuff
+An in-depth look at things of nature and technology
