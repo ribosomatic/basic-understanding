@@ -140,7 +140,7 @@ The three pathways ultimately converge and cause rupturing of the cell walls of 
 When a microorganism penetrates the body's physical barriers it gets in contact with some of the immune system cells patrolling the tissues. Most times this is accompanied by the process of inflammation which increases blood flow to the affected area and releases cytokines that attract more white blood cells. The "first responders" are neutrophils and macrophages.
 
 <video playsinline autoplay muted loop style="float: right; padding: 10px;">
-  <source src="/assets/videos/immune-system/macrophages_with_conidia.ogv" type="video/ogg">
+  <source src="{{ "/assets/videos/immune-system/macrophages_with_conidia.ogv" | relative_url }}" type="video/ogg">
 </video>
 
 _Neutrophils_ are short-lived cells that circulate in the blood in large numbers and can engulf pathogens and destroy them (called "phagocytosis"). They are fast to respond and start to accumulate within minutes.
